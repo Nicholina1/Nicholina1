@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nicholina
-- 👀 I’m interested in Software development (Python, Flutter, HTML), Product Design, Cloud Engineering and Medical Research
+- 👀 I’m interested in Software development (Python), Product Design, Cloud Engineering and Medical Research
 - 🌱 I’m currently learning Cloud Engineering
 - 💞️ I’m looking to collaborate on cloud projects, designs, development and research
 - 📫 How to reach me noacheaw18@gmail.com / nolsen603@gmail.com
