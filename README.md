@@ -1,37 +1,57 @@
 <!-- 
-  This is your GitHub profile README.
-  You can customize it with cool markdown, badges, and even simple animations!
+  🌟 Nicholina1's Profile README 
+  Created with love 💙
 -->
 
 <div align="center">
-
-# 👋 Hi, I'm Nicholina!
-
-I'm passionate about coding, learning new technologies, and building cool stuff 🚀
-
+  <img src="https://readme-typing-effect.vercel.app/?text=Hi%2C+I'm+Nicholina&color=FF69B4&font=Cursive&size=50" alt="Typing Effect" />
 </div>
 
 <br />
 
-<div align="center">
-  <img src="https://media.giphy.com/media/your-gif-id-here.gif" width="300" />
-</div>
+### 🧠 About Me
+
+I’m passionate about:
+- **Software Development** (Python)
+- **Product Design**
+- **Cloud Engineering**
+- **Medical Research**
 
 <br />
 
-### 🔧 Skills & Tools
+### 🤝 Let’s Collaborate!
 
-- 💻 Programming: Python, JavaScript
-- 📦 Frameworks: React, Node.js
-- 🌐 Web Dev: HTML, CSS, TailwindCSS
-- 🛠 Databases: MongoDB, PostgreSQL
-- ☁ Cloud: AWS, Firebase
-
-</div>
+Looking to team up on:
+- ☁️ Cloud Projects  
+- 🎨 Product Designs  
+- 💻 Software Development  
+- 🔬 Medical Research
 
 <br />
 
-### 📈 My GitHub Stats
+### 📬 How to Reach Me
+
+📧 [noacheaw18@gmail.com](mailto:noacheaw18@gmail.com)  
+📧 [nolsen603@gmail.com](mailto:nolsen603@gmail.com)
+
+<br />
+
+### 😊 Pronouns
+
+She / Her
+
+<br />
+
+### 🚀 Fun Fact
+
+I love watching movies, especially sci-fis and thrillers 🎥  
+I enjoy trying out new foods 🍣 and doing fun activities 🏕️
+
+<br />
+
+---
+
+### 🧾 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Nicholina1&show_icons=true&theme=dracula" alt="Nicholina1's GitHub Stats" />
@@ -43,13 +63,4 @@ I'm passionate about coding, learning new technologies, and building cool stuff 
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicholina1&layout=compact&theme=dracula" alt="Top Langs" />
-</div>
-
-<br />
-
-### 📫 Let’s Connect!
-
-[![Follow on Twitter](https://img.shields.io/twitter/follow/nicholina_dev?style=social)](https://twitter.com/nicholina_dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/your-link)
-
 </div>
