@@ -15,7 +15,6 @@
 
 I’m passionate about:
 - **Software Development** (Python)
-- **Product Design**
 - **Cloud Engineering**
 - **Medical Research**
 
@@ -26,8 +25,7 @@ I’m passionate about:
 ### 🤝 Let’s Collaborate!
 
 Looking to team up on:
-- ☁️ Cloud Projects  
-- 🎨 Product Designs  
+- ☁️ Cloud Projects    
 - 💻 Software Development  
 - 🔬 Medical Research
 
