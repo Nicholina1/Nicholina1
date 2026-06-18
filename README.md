@@ -14,9 +14,7 @@
 ### 🧠 About Me
 
 I’m passionate about:
-- **Software Development** (Python)
 - **Cloud Engineering**
-- **Medical Research**
 
 </div>
 
