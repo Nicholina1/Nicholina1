@@ -20,31 +20,10 @@ I’m passionate about:
 
 <br />
 
-### 🤝 Let’s Collaborate!
-
-Looking to team up on:
-- ☁️ Cloud Projects    
-- 💻 Software Development  
-- 🔬 Medical Research
-
-</div>
-
-<br />
-
 ### 📬 How to Reach Me
 
 📧 [noacheaw18@gmail.com](mailto:noacheaw18@gmail.com)  
 📧 [nolsen603@gmail.com](mailto:nolsen603@gmail.com)
-
-</div>
-
-<br />
-
-### 😊 Pronouns
-
-She / Her
-
-</div>
 
 <br />
 
